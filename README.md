@@ -7,4 +7,4 @@ JetPack study start
 
 | day  |학습 내용|
 | ------  |----------- |
-| 2022.06.19  | What JetPack?, |
+| 2022.06.19  | What JetPack?, ViewBinding|
