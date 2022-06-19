@@ -1,11 +1,10 @@
 package com.sangho.jetpackas
 
-import android.app.Activity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.sangho.jetpackas.activity.Exam1Activity
-import com.sangho.jetpackas.activity.ViewBindingEx
+import com.sangho.jetpackas.activity.ViewBindingEx1
 import com.sangho.jetpackas.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -16,7 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.run {
             mainGoBtn.setOnClickListener {
-                startActivity(Intent(this@MainActivity, ViewBindingEx::class.java))
+                startActivity(Intent(this@MainActivity, ViewBindingEx1::class.java))
             }
         }
     }
