@@ -8,3 +8,4 @@ JetPack study start
 | day  |학습 내용|
 | ------  |----------- |
 | 2022.06.19  | What JetPack?, ViewBinding|
+| 2022.06.21  | DataBinding개념 사용방법 |
